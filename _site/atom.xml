@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>reader to writer</title>
+ <link href="http://readertowriter.github.io/atom.xml" rel="self"/>
+ <link href="http://readertowriter.github.io/"/>
+ <updated>2014-08-24T00:35:13-04:00</updated>
+ <id>http://readertowriter.github.io</id>
+ <author>
+   <name>me</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>A Beginning</title>
+   <link href="http://readertowriter.github.io/2014/08/22/a-beginning/"/>
+   <updated>2014-08-22T00:00:00-04:00</updated>
+   <id>http://readertowriter.github.io/2014/08/22/a-beginning</id>
+   <content type="html">&lt;p&gt;Basically, it comes to this: I want to be a writer. it makes perfect sense in my life, in all ways - creatively, practically, history-wise, mind-wise, and so on. Time is passing though, faster than ever. It&amp;#39;s taken me years+ to get to the point where I can say the first line above to myself, sometimes even out loud, but nonetheless after a few weeks or days of steady progress, I lose focus. I get discouraged. I get lazy. Someone gets sick. Drama. I take up yoga. Whatever. Next thing I know, it&amp;#39;s been weeks since I&amp;#39;ve written. I&amp;#39;m always reading and jotting down ideas, but that is not enough to make me a writer. &lt;/p&gt;
+
+&lt;p&gt;So, the idea here is to track the progress, the ups and downs of it all. And for me, I&amp;#39;ve learned that there&amp;#39;s something about putting it online - even if no one else ever reads it much less follows along - that makes me &lt;em&gt;want&lt;/em&gt; to stick to a project. &lt;/p&gt;
+
+&lt;p&gt;Along with progress updates, I&amp;#39;ll also talk about books I&amp;#39;ve read and want to read, writing strategies, themes and trends I&amp;#39;m interested in, time management, goal-setting, and basically anything that gets me excited to write enough that I actually write. &lt;/p&gt;
+
+&lt;p&gt;And that&amp;#39;s that.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

@@ -22,4 +22,4 @@ Statistics: one is non-fiction, one is a historical western, two are scifi, eigh
 
 As for now, I'm in the middle of half a dozen other books, not a good sign usually that I'll ever finish them, but there's always hope. I'm also halfway through [Ted Chiang's Stories of Your Life and Others](http://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others), but I will definitely get through this book as the stories are excellent - I just take my time with short stories. 
 
-So, a taste of my reading interests. 
+So, a taste of my reading interests.

@@ -173,6 +173,30 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
+/* Calendar widget */
+.clmonth {
+  border-collapse: collapse;
+}
+.clmonth caption {
+  text-align: center;
+}
+.clmonth th {
+  border: 0px dotted #EAEAEA;
+  border-bottom: none;
+  padding: 0.2em 0.4em 0.2em 0.4em;
+}
+.clmonth td {
+  border: 1px dotted #EAEAEA;
+  font: 80%;
+  padding: 0.2em 0.4em 0.2em 0.4em;
+  vertical-align: top;
+}
+.clmonth td.active {
+  background-color: #B1CBE1;
+  color: #2B5070;
+}
+
+
 /* Sidebar nav */
 .sidebar-nav {
   border-bottom: 1px solid rgba(255,255,255,.1);

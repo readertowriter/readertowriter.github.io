@@ -234,7 +234,7 @@ img {
   border-radius: 5px;
 }
 
-/* Tables */
+/* Tables -- greyed out table css for now, as i rarely use them - 8/26/2014
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -250,7 +250,7 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-
+*/
 
 /*
  * Custom type

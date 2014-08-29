@@ -9,12 +9,13 @@ permalink:        pretty
 title:            reader to writer
 tagline:          '{a progress blog}'
 description:      '..because a year from now, you''ll wish you had started today'
-url:              http://readertowriter.github.io
+url:              http://readertowriter.github.io/
 baseurl:          '/'
 paginate:         5
 
 author:
-  name:           'me'
+  name:           'readertowriter'
+  email:		  'readertowriter@gmail.com'
   url:            https://twitter.com/readertowriter
 
 # Custom vars

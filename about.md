@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-You can contact me on twitter @readertowriter.
+You can contact me on twitter @readertowriter or at gmail with the same username. 
 
 - - -
 

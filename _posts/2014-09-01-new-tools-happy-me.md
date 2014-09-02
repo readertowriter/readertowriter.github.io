@@ -1,7 +1,7 @@
 ---
-layout:post
-title:New Tools, Happy Me
-category:tools
+layout: post
+title: New Tools, Happy Me
+category: tools
 ---
 
 At this point I have [Jekyll](www.getjekyll.com) up and running on my laptop, and I know just enough of [GitHub](www.github.com) to be dangerous, to my own repo that is. Now though, I'm getting greedy and I want to be able to write drafts and publish them from my iPad, and let my tired seven year old black MacBook rest most of the time. I have a little Bluetooth-enabled keyboard that I can use, and even rechargeable batteries ready to be used as I write for hours on end. (Well, that is basically impossible for scheduling reasons, but to be saved for another post.) Right now, I'm talking about tools. As Virgina Woolf wrote, you need a room of your own. Oh and a 500 pounds annuity, but somehow that practical bit is not as popular. Me, I'm a fan of both, and can see why they are both quite necessary. I would add a babysitter or publuc schooling as well.. But again, another post.
@@ -12,4 +12,4 @@ So, I can write a draft in WordEver - just realized it's a play on 'whatever', h
 
 Since I'm talking about the website, I'll mention that for now I'm not going to set up comments. The easiest way would be via [Disqus](www.disqus.com) but it's a bit too flashy for me and mostly I am enjoying writing without worrying whther I'll get comments, how many , etc etc. If someone really needs to reach me, my twitter account [@readertowriter](http://twitter.com/readertowriter) is always available for DMs or twitter mentions. 
 
-Ok, enough jibber-jabbering (which by the by, [comes](http://www.etymonline.com/index.php?term=jabber) from "Middle English jablen (c.1400),...probably ultimately echoic." Echoic!)
+Ok, enough jibber-jabbering (which by the by, [comes](http://www.etymonline.com/index.php?term=jabber) from "Middle English jablen (c.1400)...probably ultimately echoic." Echoic!)

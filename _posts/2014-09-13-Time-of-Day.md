@@ -9,12 +9,13 @@ For the longest time, I thought a schedule was stifling - too many years of scho
 
 So, the basics: 
 
-	* some space to yourself, dedicated to writing - something pretty or sparse, clean or cluttered;
-	* find a block of at least 15 minutes of uninterrupted time;
-	* schedule writing time with those 15 minutes - daily, every other day, etc.
-	* look at the #amwriting tag on twitter at other times during the day - it works for me at least! if they can do it, so can you. 
-	* have your computer/notebook/whatever open and nearby, so when an idea strikes, you can quickly jot it down. You will almost certainly *not* remember the idea later. 
-	* imagine your award-accepting speech and decide on book dedications -- ha, just kidding about that part. kinda.
-	* finish your story. writing is great but revising is even better so: finish!
+* 	some space to yourself, dedicated to writing - something pretty or sparse, clean or cluttered;
+* 	find a block of at least 15 minutes of uninterrupted time;
+* 	schedule writing time with those 15 minutes - daily, every other day, etc.
+* 	look at the #amwriting tag on twitter *at other times during the day* - it works for me at least. It's inspiring: if they can do it, so can you. 
+* 	do *not* look at Facebook/twitter/etcetc 'real quick' before or during writing. 
+* 	have your computer/notebook/whatever open and nearby, so when an idea strikes, you can quickly jot it down. You will almost certainly *not* remember the idea later. 
+* 	imagine your award-accepting speech and decide on book dedications -- ha, just kidding about that part. kinda.
+* 	finish your story. writing is great but revising is even better so: finish.
 
 Cory Doctorow said, "Writing is something I do every day, a thousand words whethere I feel like it or not...I think writers who rely on inspiration aren't very happy - the thing that makes their idenity isn't in their control. I can't imagine a worse situation." Makes sense to me.

@@ -61,5 +61,6 @@ I go at my own (slow) pace at so many of the big things in life and I'm used to 
 *	Mur Lafferty - 39
 *	Brad R. Torgersen - 38
 
+So, never say never.
 
 ![Campbell Award Pin given to all nominees]({{site_url}}/images/CampbellAwardPin.jpg)

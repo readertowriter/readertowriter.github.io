@@ -15,6 +15,6 @@ title: Notable reads in September
 
 	I loved the footnote: "As for this story's theme, the most concise summation of it that I've seen appears in Kurt Vonnegut's introduction to the 25th anniversary edition of *Slaughterhouse-Five*: 'Stepehn Hawking...found it tantalizing that we could not remember the future. But remembering the future is child's play for me now. I know what will become of my helpless, trusting babies because they are grown-ups now. I know how my closest friends will end up because so many of them are retired or dead now... To Stephan Hawking and all others younger than myself I say, ' Be patient. Your future will come to you and lie down at your feet like a dog who know sna dloves you no matter what you are.'""	
 
-* [North American Lake Monsters]() by Natahn Ballingrud
+* [North American Lake Monsters]() by Nathan Ballingrud
 
 *	

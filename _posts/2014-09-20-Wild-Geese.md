@@ -22,5 +22,4 @@ calls to you like the wild geese, harsh and exciting --
 over and over announcing your place  
 in the family of things."  
 
-If for no other reason than this poem, I think I will love Mary Oliver for the rest of my life. This poem makes me want to run around and laugh and dance and think and write and feel free and .. oh all the good things in the world.
-
+If for no other reason than this poem, I think I will love Mary Oliver for the rest of my life. This poem makes me want to run around and laugh and dance and think and write and feel free and - oh all the good things in the world. I've read other poems and essays by her lately, and they are very good as well, but oh this poem..

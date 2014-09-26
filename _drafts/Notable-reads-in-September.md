@@ -17,4 +17,4 @@ title: Notable reads in September
 
 * [North American Lake Monsters]() by Nathan Ballingrud
 
-*	
+* "The Fisherwoman's Daughter" by Ursula K. Le Guin

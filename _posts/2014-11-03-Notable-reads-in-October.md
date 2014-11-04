@@ -15,4 +15,4 @@ title: Notable reads in October
 
 * [The Facts of Life](https://www.goodreads.com/book/show/176332.The_Facts_of_Life) by Graham Joyce
 
-These were all good and I deinitely recommend them - but that's all for now, NaNoWriMo calls. The story is going in an odd direction, or rather began odd and is getting odder each day, but I'm rather liking it.
+These were all good and I definitely recommend them - but that's all for now, NaNoWriMo calls. The story is going in an odd direction, or rather began odd and is getting odder each day, but I'm rather liking it.

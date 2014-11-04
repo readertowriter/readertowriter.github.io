@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notable reads in Octobr
+title: Notable reads in October
 ---
 
 * ["Santos de Sampaguitas"](http://www.strangehorizons.com/2014/20141006/sampaguita-f.shtml) by Alyssa Wong

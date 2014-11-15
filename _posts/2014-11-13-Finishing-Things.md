@@ -11,6 +11,6 @@ Don't be too successful or men will be scared of you.
 The implication is always that... success at one end brings failure at the other....   
 No wonder women are ambivalent about success. Most of them are so ambivalent, in fact, that when success seems imminent they go through the most complex machinations to ward it off. Very often they succeed, too."
 
--Erica Jong, "The Artist as Housewife", 1972.
+-Erica Jong, "The Artist as Housewife", 1972 (via [Terri Windling](http://windling.typepad.com/blog/2014/11/taking-risks.html))
 
 Forty years old but wow if much of it isn't still true. (Though, for Jong, the only reasons she could find, or at least list, that women might fear men's reactions at their success was about getting a man/that ring? Yikes.) That part aside, this is full of interesting bits. Most importantly for today and this month: finish things!

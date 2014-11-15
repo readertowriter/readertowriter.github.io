@@ -6,8 +6,8 @@ layout:
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title type="text" xml:lang="en">{{ site.title }}</title>
- <link type="application/atom+xml" href="{{ site.url }}atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
+ <link type="application/atom+xml" href="{{ site.url }}atom.xml" rel="self" title="{{ site.title }}"/>
+ <link href="{{ site.url }}/" title="{{ site.title }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
  <author>

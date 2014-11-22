@@ -21,3 +21,7 @@ title: Notable Reads in November
 	
 
 (The last two stories were recommended in a recent A.C. Wise ['Women to Read'](http://www.sfsignal.com/archives/2014/11/guest-post-a-c-wise-on-women-to-read-where-to-start-november-2014-edition/) column in SF Signal. Generally a very good column to follow.)
+
+*["Friday Five: 5 Things in Historical Romance I Wantonly Desire to See in Epic Fantasy"]() by Jared@Pornokitch 
+
+* ["Live Event: Robert Macfarlane and Rebecca Solnit on Nature Writing"](http://www.orionmagazine.org/index.php/audio-video/item/live_event_robert_macfarlane_and_rebecca_solnit_on_nature_writing/) - podcast episode

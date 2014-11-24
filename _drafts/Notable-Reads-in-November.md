@@ -25,3 +25,7 @@ title: Notable Reads in November
 *["Friday Five: 5 Things in Historical Romance I Wantonly Desire to See in Epic Fantasy"]() by Jared@Pornokitch 
 
 * ["Live Event: Robert Macfarlane and Rebecca Solnit on Nature Writing"](http://www.orionmagazine.org/index.php/audio-video/item/live_event_robert_macfarlane_and_rebecca_solnit_on_nature_writing/) - podcast episode
+
+* [""](http://www.bookslut.com/features/2004_01_001312.php) 
+
+	"In 1692 the first sort of mainland expedition made its way out to St. Kilda [the remotest islands of Scotland’s Outer Hebrides]. No trees have ever grown on St. Kilda. and they brought a load of islanders back to the mainland. And these people met a tree for the first time -- and they just stood there and worshipped at it. And, similarly, the mainlanders who’d gone over found that all the vegetation had been kind of beaten flat by the wind and was no higher than shin level, but they looked more closely at the vegetation and realized that these were trees -- they were just incredibly stunted trees -- and that they were actually walking around on top of a forest. It was just a forest that was half a foot high."

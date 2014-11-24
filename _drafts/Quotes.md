@@ -22,6 +22,17 @@ Of course, I live more than one life all the time anyway. Don't we all who read 
 
 "Always in big woods, when you leave familiar ground and step off alone to a new place, there will be, along with feelings of curiosity and excitement, a little nagging of dread. It is the ancient fear of the unkown, and it is your bond with the wilderness you are going into. What you are doing is exploring. You are undering the first experience, not of the place, but of yourself in that place." - Wendell Berry
 
+"Distant places give us refuge in territories where our histories aren’t so deeply entrenched and we can imagine other stories, other selves, or just drink up quiet and respite." -Rebecca Solnit
+
+"It's easy for storytellers to think stories are wonderful, but some stories burden and curse you; some stories you're better without." -Rebecca Solnit
+
+" I'm interested in how a narrative can be complete, have form and satisfaction, without that sense of tidying it all up or shutting it all down. Because the questions are richer than any answers could be, and letting the questions stay, not be nailed down and shut up by answers is important. You can imagine the protagonist, imagine yourself as a sort of question, or quest, and to say that it's over is to say it's been answered adequately. Toward the end of the book, I wrote, "As I was approaching this chapter, I woke up in the middle of the night and thought something I should have written down at the time. The empty shell of it that washed up on the shores of morning was to the effect that sometimes an extraordinary or huge question comes along and we try to marry it off to a mediocre answer. Essayists too face the temptation of a neat ending, the point when you bring the boat in to shore and tie it to the dock and give up the wide sea. The thread is cut and becomes the ribbon with which everything is tied up, a sealed parcel: the end. It's easy to do, and I've done it again and again, sometimes with a sense of betrayal of the complexity of what came before, and sometimes when I hadn't done it, an editor asked for the giftwrap and ribbon. What if we only wanted openings, the immortality of the unfinished, the uncut thread, the incomplete, the open door and the open sea?" - Rebecca Solnit
+
+"the end of all our exploring / Will be to arrive where we started /And know the place for the first time." -t.s. eliot
+
+"Creation is always in the dark because you can only do the work of making by not quite knowing what you’re doing, by walking into darkness, not staying in the light. Ideas emerge from edges and shadows to arrive in the light, and though that’s where they may be seen by others, that’s not where they’re born." - Rebecca Solnit
+
+"Ultimately, I believe that slowness is an act of resistance, not because slowness is a good in itself but because of all that it makes room for, the things that don’t get measured and can’t be bought." —Rebecca Solnit 
 
 
 

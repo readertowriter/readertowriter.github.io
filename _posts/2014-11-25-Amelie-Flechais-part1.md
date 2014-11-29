@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amelie Flechais
+title: Amélie Fléchais
 category: art
 ---
 

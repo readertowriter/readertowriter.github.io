@@ -1,0 +1,8 @@
+---
+layout: post
+title: First Drafts
+---
+
+I still have about three thousand words to go to complete NaNoWriMo, but I have definitely reached my primary goal of having a finished story, with a beginning, middle, and end. I will celebrate about that in another post in a few days, but for now I have been thinking a lot about the whole idea of first drafts. People always want to categorize everything, including themselves. In writing, it is: are you an outliner or a pantser (i.e. writing by the seat of your pants), do you love rewriting or writing first drafts, etc. Give yourself permission to suck, is what people often say with first drafts. Now, I am just at the beginning of this process of becoming a writer, but it seems to me it's a fine line of suckage that must be traveled. Too picky about what you're writing probably means you won't actually write anything or if you do, you first have to work on it for like twenty years. That is fine in concept, but I'm too old and impatient for it. On the other hand, if your story and/or writing is too sucky, then you will have no motivation to keep you going and it will be hard to find a coherent thread to follow in the story. So, I am enjoying the freedom of this first draft, of writing whatever is amusing and interesting and funny and sad enough to bring me to tears, but I think I am the kind of writer who will do best in rewriting. In general in life, I love the idea of absolute freedom but I do best and am happiest with structure and scheduling and to-do lists. 
+
+Now, off to write!

@@ -17,10 +17,7 @@ title: Notable Reads in November
 
 *["The Husband Stitch"](http://www.granta.com/New-Writing/The-Husband-Stitch) by Carmen Maria Machado
 	
-	The power of story, especially when it comes to birth and women's experiences: "There is a story about a woman who goes into labour when the attending physician is tired. There is a story about a woman who herself was born too early. There is a story about a woman whose body clung to her child so hard they cut her to retrieve him. There is a story about a woman who heard a story about a woman who birthed wolf cubs in secret. Stories have this way of running together like raindrops in a pond. They are each borne from the clouds separately, but once they have come together, there is no way to tell them apart." 
-	
-
-(The last two stories were recommended in a recent A.C. Wise ['Women to Read'](http://www.sfsignal.com/archives/2014/11/guest-post-a-c-wise-on-women-to-read-where-to-start-november-2014-edition/) column in SF Signal. Generally a very good column to follow.)
+	The power of story, especially when it comes to birth and women's experiences: "There is a story about a woman who goes into labour when the attending physician is tired. There is a story about a woman who herself was born too early. There is a story about a woman whose body clung to her child so hard they cut her to retrieve him. There is a story about a woman who heard a story about a woman who birthed wolf cubs in secret. Stories have this way of running together like raindrops in a pond. They are each borne from the clouds separately, but once they have come together, there is no way to tell them apart." (This and the previous story were recommended in a recent A.C. Wise ['Women to Read'](http://www.sfsignal.com/archives/2014/11/guest-post-a-c-wise-on-women-to-read-where-to-start-november-2014-edition/) column in SF Signal. Generally a very good column to follow.)
 
 *["Friday Five: 5 Things in Historical Romance I Wantonly Desire to See in Epic Fantasy"]() by Jared@Pornokitch 
 
@@ -29,3 +26,6 @@ title: Notable Reads in November
 * [""](http://www.bookslut.com/features/2004_01_001312.php) 
 
 	"In 1692 the first sort of mainland expedition made its way out to St. Kilda [the remotest islands of Scotland’s Outer Hebrides]. No trees have ever grown on St. Kilda. and they brought a load of islanders back to the mainland. And these people met a tree for the first time -- and they just stood there and worshipped at it. And, similarly, the mainlanders who’d gone over found that all the vegetation had been kind of beaten flat by the wind and was no higher than shin level, but they looked more closely at the vegetation and realized that these were trees -- they were just incredibly stunted trees -- and that they were actually walking around on top of a forest. It was just a forest that was half a foot high."
+
+* ["Pavane for a Prince of the Air"]() by Elizabeth Hand
+

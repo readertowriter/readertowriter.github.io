@@ -34,5 +34,10 @@ Of course, I live more than one life all the time anyway. Don't we all who read 
 
 "Ultimately, I believe that slowness is an act of resistance, not because slowness is a good in itself but because of all that it makes room for, the things that don’t get measured and can’t be bought." —Rebecca Solnit 
 
+"In the end, people don't view their life as merely the average of all its moments - which, after all, is mostly nothing much plus some sleep. For human beings, life is meaningful because it is a story. A story has a sense of a whole, and its arc is determined by the significant moments, the ones where something happens. Measurements of people's minute-by-minute levels of pleasure and pain miss this fundamental aspect of human existence. A seemingly happy life may be empty. A seemingly difficult life may be devoted to a great cause. We have purposes larger than ourselves. Unlike your experiencing self - which is absored in the moment - your remembering self is attempting to recognize not onnly the peaks of joy and valleys of misery but also how the story works out as a whole. That is profoundly affected by how things ultimately turn out. Why would a football fan let a few flubbed minutes at the end of the game ruin three hours of bliss? Because a football game is a story. And in stories, endings matter."
+
+"It is more of a jump, but I find that more interesting in many ways. The irruption of the supernatural into our world is a much more enticing notion to explore than the same thing happening in some past time, or in a wholly imaginary world. It is more interesting for the writer, though not necessarily for the reader." - Elizabeth Hand
+
+
 
 

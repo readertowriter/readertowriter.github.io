@@ -1,6 +1,6 @@
 ---
+layout: post
 title: Still Here
-type: post
 ---
 
 Just back from a very fun and great visit to another continent, and now a little breather before the new year. I have lots of plans and hopes for this year, and writing is a big part of all that. Publishing even more so. Be back soon and in the meantime, a quote I like: 

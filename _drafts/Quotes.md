@@ -16,7 +16,6 @@ Of course, I live more than one life all the time anyway. Don't we all who read 
 
 "The verb 'to wonder' communicates the receptive state of marveling as well as the active desire to know, to inquire..." - Maria Werner
 
-"Nothing ever begins. There is no first moment; no single world or place from which this or any other story springs. The threads can always be traced back to some earlier tale, and to the tales that preceded that, though as the narrator's voice receds the connections will seem to grow more tenuous, for each age will want the tale told again as if it were its own making." - Clive Barker
 
 "[While walking, a] new thought often seems like a feature of the landscape that was there all along, as though thinking were traveling rather than making." -Rebecca Solnit
 

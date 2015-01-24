@@ -592,9 +592,8 @@ a.pagination-item:hover {
         font-weight: bold;
         color: #6a9fb5;
         margin-left: 10px;
-
-        &:hover {
+}
+ .share a:hover{
             border-bottom: 1px dashed #515151;
             background-color: #ECE9E9;
         }
-    }

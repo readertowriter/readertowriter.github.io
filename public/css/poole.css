@@ -398,6 +398,9 @@ tbody tr:nth-child(odd) th {
             border-bottom: 1px dashed #fff;
         }
     }
+    a:hover {
+      color: white;
+    }
 }
 
 

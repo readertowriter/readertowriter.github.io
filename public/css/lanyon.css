@@ -575,3 +575,26 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/*
+ * Social Sharing on Posts
+ */
+
+.share {
+    text-align: center;
+    background: #f5f5f5;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 3em 0;
+
+    a {
+        font-weight: 700;
+        color: #6a9fb5;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}

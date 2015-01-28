@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vaiva Cyvaite part 1
+title: Vaiva &#268;yvait&eacute; part 1
 ---
 
 ![1]({{site_url}}/images/VaivaCyvaite1.jpg)

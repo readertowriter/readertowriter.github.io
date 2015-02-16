@@ -10,10 +10,11 @@ and
 "The world is vast. It is full of people, full of doings and battles and magic. Anywhere you go, you will find the world waiting for you."
 
 When you finish a good book, any of the following might occur:
-* one or both of your arms break out in goosebumps,
-* an unsupressable smile crosses your face, you want to hug the book to your chest, 
-* you exhale a large happy sigh you didn't know you were holding, 
-* you put the book down and immediately pick it back up, flipping through it, remembering how good the journey of reading it had been, 
-* you google the author's name on youtube, blogs, wkipedia, and goodreads, searching for interviews, more stories, and books, wondering who this person is who wrote something you love. 
+
+*  one or both of your arms break out in goosebumps,
+*  an unsupressable smile crosses your face, you want to hug the book to your chest, 
+*  you exhale a large happy sigh you didn't know you were holding, 
+*  you put the book down and immediately pick it back up, flipping through it, remembering how good the journey of reading it had been, 
+*  you google the author's name on youtube, blogs, wkipedia, and goodreads, searching for interviews, more stories, and books, wondering who this person is who wrote something you love. 
 
 So, read [The Book of Knights](https://www.goodreads.com/book/show/1583772.The_Book_of_Knights) by Yves Reynard if you loved [Nobody's Son](https://www.goodreads.com/book/show/602467.Nobody_s_Son) by Sean Stewart, and vice versa of course.

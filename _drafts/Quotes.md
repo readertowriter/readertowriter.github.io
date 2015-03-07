@@ -6,7 +6,7 @@ title: Quotes
 Of course, I live more than one life all the time anyway. Don't we all who read books?" - Mary Oliver
 
 
-"It is in fact much easier for us to send machines, cameras...even people, ten million miles out into space than it is to send anything, let alone anyone, ten miles under foot. Going out is always easy, you just set off and go. Going in is never easy, and going deep is quite another matter." - Ursula K. Le Guin
+
 
 
 "Our lives are fittered away by detail... Simplicity, simplicity, simplicity!" - Henry David Thoreau (Walden)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lesley Barnes,, Part 1
+title: Lesley Barnes, Part 1
 ---
 
 ![]({{site_url}}/images/LesleyBarnes1.jpg)

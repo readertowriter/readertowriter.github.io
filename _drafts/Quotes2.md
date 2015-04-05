@@ -12,4 +12,6 @@
 
 "When we say, 'I haven't got the words,' the lack is not in the language nor in our emotional state, it is in the breakdown between the two. The poet heals that breakdown and not only for those who read poetry. If we want a living language, a language capable of expressing all that is called upon to express in a vastly changing world, then we need men and women whose whole self is bound up in that work with words." - Jeanette Winterston
 
-"Life isn’t about finding yourself. Life is about creating yourself."  - George Bernard Shaw
+"Nice writing isn't enough. It isn't enough to have smooth and pretty language. You have to surprise the reader frequently, you can't just be nice all the time. Provoke the reader. Astonish the reader. Writing that has no surprises is as bland as oatmeal. Surprise the reader with the unexpected verb or adjective. Use one startling adjective per page." -ANNE BERNAYS
+
+"One particular feature of Chinese historical romances is the use of “side stories” of secondary characters to advance the plot obliquely. Writing these side stories is a lot like writing short fiction, and I could use some of my skills as a short story writer in these sections." -Ken Liu

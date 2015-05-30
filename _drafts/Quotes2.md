@@ -15,3 +15,15 @@
 "Nice writing isn't enough. It isn't enough to have smooth and pretty language. You have to surprise the reader frequently, you can't just be nice all the time. Provoke the reader. Astonish the reader. Writing that has no surprises is as bland as oatmeal. Surprise the reader with the unexpected verb or adjective. Use one startling adjective per page." -ANNE BERNAYS
 
 "One particular feature of Chinese historical romances is the use of “side stories” of secondary characters to advance the plot obliquely. Writing these side stories is a lot like writing short fiction, and I could use some of my skills as a short story writer in these sections." -Ken Liu
+
+""Trying to use words. And every attempt
+Is a wholly new start, and a different kind of failure
+Because one has only learned to get the better of words
+For the thing one no longer has to say, or the way in which
+One is no longer disposed to say it. And so each venture
+Is a new beginning, a raid on the inarticulate
+With shabby equipment always deteriorating
+In the general mess of imprecision of feeling
+Undisciplined squads of emotion."
+
+T.S. Eliot, East Coker, Four Quartets" (quoted here: http://papersky.livejournal.com/651436.html)

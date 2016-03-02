@@ -3,6 +3,7 @@ layout: post
 title: Stories Read - February 2016		
 ---
 
+
 I've been making a bigger effort to read short stories, both old and new, mostly in genre journals, and woah, I read over thirty this month:
 
 * [Map of Seventeen](http://www.lightspeedmagazine.com/fiction/map-of-seventeen/) by Christopher Barzak
